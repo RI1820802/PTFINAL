@@ -47,12 +47,14 @@ body {
 }
 
 .section-img-background {
-    height: 300px;
-    width: 100%;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
+    height: 290px;
+    width: 98%;
+    .subtitle a {
+font-size: 20px;
+(add) border-bottom: 1.5px solid white;
+.subtitle a:hover {
+color: grey;
+
 
 .img-text-wrapper {
     position: absolute;
